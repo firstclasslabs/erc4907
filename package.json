@@ -1,0 +1,25 @@
+{
+  "name": "@firstclasslabs/erc4907",
+  "description": "ERC4907 and a rentable extension",
+  "version": "1.0.0",
+  "files": [
+    "**/*.sol"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/firstclasslabs/erc4907.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "nft"
+  ],
+  "author": "Firstclass Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firstclasslabs/erc4907/issues"
+  },
+  "homepage": "https://firstclass.wtf"
+}
